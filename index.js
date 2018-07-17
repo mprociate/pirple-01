@@ -1,4 +1,4 @@
-e strict';
+'use strict';
 
 // Gather dependencies
 var url = require('url'),
